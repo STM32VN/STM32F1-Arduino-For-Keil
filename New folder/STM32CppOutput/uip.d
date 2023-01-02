@@ -1,9 +1,0 @@
-..\..\stm32cppoutput\uip.o: ..\..\HARDWARE\UIPEthernet\utility\uip.c
-..\..\stm32cppoutput\uip.o: ..\..\HARDWARE\UIPEthernet\utility\uip.h
-..\..\stm32cppoutput\uip.o: ..\..\HARDWARE\UIPEthernet\utility\uipopt.h
-..\..\stm32cppoutput\uip.o: ..\..\HARDWARE\UIPEthernet\utility\uip-conf.h
-..\..\stm32cppoutput\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
-..\..\stm32cppoutput\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\..\stm32cppoutput\uip.o: ..\..\HARDWARE\UIPEthernet\utility\uipethernet-conf.h
-..\..\stm32cppoutput\uip.o: ..\..\HARDWARE\UIPEthernet\utility\uip_arch.h
-..\..\stm32cppoutput\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
