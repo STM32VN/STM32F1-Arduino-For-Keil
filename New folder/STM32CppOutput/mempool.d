@@ -1,0 +1,10 @@
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\mempool.cpp
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\mempool.h
+..\..\stm32cppoutput\mempool.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\stm32cppoutput\mempool.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\mempool_conf.h
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\uipethernet-conf.h
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\uipopt.h
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\uip-conf.h
+..\..\stm32cppoutput\mempool.o: ..\..\HARDWARE\UIPEthernet\utility\enc28j60.h
+..\..\stm32cppoutput\mempool.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

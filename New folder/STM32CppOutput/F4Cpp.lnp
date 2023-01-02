@@ -1,0 +1,33 @@
+--cpu Cortex-M3
+"..\..\stm32cppoutput\startup_stm32f103xg.o"
+"..\..\stm32cppoutput\pinmap.o"
+"..\..\SYSTEM\F1Cpp.lib"
+"..\..\stm32cppoutput\dht11.o"
+"..\..\stm32cppoutput\tm1637display.o"
+"..\..\stm32cppoutput\file.o"
+"..\..\stm32cppoutput\sd.o"
+"..\..\stm32cppoutput\sd2card.o"
+"..\..\stm32cppoutput\sdfile.o"
+"..\..\stm32cppoutput\sdvolume.o"
+"..\..\stm32cppoutput\font7s.o"
+"..\..\stm32cppoutput\font16.o"
+"..\..\stm32cppoutput\font32.o"
+"..\..\stm32cppoutput\font64.o"
+"..\..\stm32cppoutput\glcdfont.o"
+"..\..\stm32cppoutput\adafruit_gfx.o"
+"..\..\stm32cppoutput\adafruit_gfx_as.o"
+"..\..\stm32cppoutput\adafruit_ili9341.o"
+"..\..\stm32cppoutput\adafruit_ili9341_dma.o"
+"..\..\stm32cppoutput\adafruit_tftlcd_8bit_stm32.o"
+"..\..\stm32cppoutput\hx8347g.o"
+"..\..\stm32cppoutput\hx8357x.o"
+"..\..\stm32cppoutput\ili932x.o"
+"..\..\stm32cppoutput\ili9341.o"
+"..\..\stm32cppoutput\main.o"
+"..\..\stm32cppoutput\stm32f1xx_hal_msp.o"
+"..\..\stm32cppoutput\stm32f1xx_it.o"
+--library_type=microlib --strict --scatter "..\..\STM32CppOutput\F4Cpp.sct"
+
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "F4Cpp.map" -o ..\..\STM32CppOutput\F4Cpp.axf
